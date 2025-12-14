@@ -1,0 +1,68 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>SAAS companies</h1>
+        <p>SaaS (Software as a Service) companies provide cloud-based software, with major players like Salesforce, Adobe, Microsoft (Office 365), ServiceNow, and Shopify dominating, offering everything from CRM and design tools to accounting and communication platforms (like Zoom, Slack) used by individuals and businesses daily for various functions like collaboration (Asana), HR (Workday), and finance. They operate on a subscription model, delivering apps over the internet, making them accessible and scalable.</p>
+
+        <!-- Sección 1 -->
+        <section>
+            <h2>Key Characteristics of SaaS</h2>
+            <p>This video explains the key characteristics of SaaS companies, including their cloud-based nature, subscription model, and scalability.</p> <!-- Segundo hijo: Párrafo -->
+            <iframe
+                width="300"
+                height="200"
+                src="https://www.youtube.com/embed/PJqp8ciNsRA"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                title="key">
+            </iframe>
+        </section>
+
+        <!-- Sección 2 -->
+        <section>
+            <h2>Types of SaaS</h2>
+            <p>This video covers the different types of SaaS, including B2B (Business-to-Business) and B2C (Business-to-Consumer) models.</p> <!-- Segundo hijo: Párrafo -->
+            <iframe
+                width="300"
+                height="200"
+                src="https://www.youtube.com/embed/N2V3lzhUyu0"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                title="Types of saas">
+            </iframe>
+        </section>
+
+        <!-- Sección 3 -->
+        <section>
+            <h2>How SaaS are Made</h2>
+            <p>This video describes the process of creating a SaaS company, from identifying a customer problem to building a Minimum Viable Product (MVP).</p> <!-- Segundo hijo: Párrafo -->
+            <iframe
+                height="200"
+                width="300"
+                src="https://www.youtube.com/embed/pY2-5YvJWSo"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                frameborder="0"
+                allowfullscreen
+                title="SaaS process">
+            </iframe>
+        </section>
+
+    </main>
+</body>
+
+</html>
+
+
+** end of index.html **
+
