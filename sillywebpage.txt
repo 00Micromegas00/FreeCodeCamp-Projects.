@@ -1,0 +1,60 @@
+<html>
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <link rel="stylesheet" href="syle.css" />
+      <meta charset="UTF-8" />
+    </head>
+    <body>
+      <header>
+        <h1>Hello buddy!</h1>
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">About</a>
+          <a href="#">Contact</a>
+        </nav>
+      </header>
+      <main>
+        <p>Hello, pal! Let’s start by typing this information.</p>
+        <br />
+        <p>Your phone number</p>
+        <ol>
+          <li><input type="number" /></li>
+          <p>Here your email</p>
+          <li><input type="email" /></li>
+          <p>Here your full name</p>
+          <li>
+            <input type="text" placeholder="I Challenge you to type" readonly />
+          </li>
+        </ol>
+        <section>
+          <h2>Second step</h2>
+          <strong>Follow:</strong>
+          <p>
+            If you are reading this, you <b>consent</b> to provide all your
+            credit information, otherwise
+            <b>you might be losing all your money.</b> Thanks
+          </p>
+          <img
+            src="https://media.tenor.com/Dtry-pk4q2wAAAAe/that-wasn%27t-very-cash-money-of-you-meme-cat.png
+          "
+            alt="A millionare cat"
+          />
+        </section>
+        <section>
+          <h2>What can you do know?</h2>
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            title="Video de ejemplo"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          >
+          </iframe>
+        </section>
+      </main>
+    </body>
+  </html>
+</html>
