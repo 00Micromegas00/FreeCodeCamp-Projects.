@@ -1,0 +1,37 @@
+body.index {
+  background-color: burlywood;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+img.gif {
+}
+body.nos {
+  background-color: cornsilk;
+  font-size: larger;
+}
+
+body.inversiones {
+  background-color: powderblue;
+}
+.producto1 {
+  display: flex;
+  align-items: flex-start; /* alinea la parte superior */
+  gap: 20px; /* espacio entre imagen y texto */
+  margin-bottom: 30px;
+}
+
+.producto1 img {
+  width: 300px; /* ajusta según diseño */
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px; /* opcional */
+}
+
+.juanvaldez {
+  flex: 1; /* ocupa el resto del espacio */
+}
+body.comprar {
+  background-color: lavenderblush;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inversiones</title>
+    <link rel="stylesheet" href="syle.css" />
+  </head>
+  <body class="inversiones">
+    <header>
+      <ul>
+        <li><a href="index.html">Historia del cafe</a></li>
+        <li><a href="nos.html">Sobre nosotros</a></li>
+        <li><a href="comprar.html">Comprar cafe</a></li>
+      </ul>
+    </header>
+    <main>
+      <h1>_Por que invertir en cafe?</h1>
+      <section>
+        <h2>Países importadores de café</h2>
+        <p>
+          Los principales países productores de café a nivel mundial son Brasil,
+          Vietnam y Colombia. El primer productor es Brasil, con algo más del
+          60% de la producción total de café arábica. Le sigue Vietnam que
+          produce principalmente café robusta. La climatología en estos países
+          influye mucho en la calidad y cantidad de café y esas son las
+          principales causas de la variación en el precio del café en la bolsa.
+        </p>
+      </section>
+      <section>
+        <iframe
+          src="https://es.investing.com/academy/commodities/como-invertir-en-cafe-y-por-que/"
+          width="800" 
+          height="400"
+          title="investment"
+          >
+        </inframe>
+      </section>
+    </main>
+  </body>
+</html>

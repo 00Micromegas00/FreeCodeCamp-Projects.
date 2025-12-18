@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Historia del cafe</title>
+    <link rel="stylesheet" href="syle.css" />
+  </head>
+  <body class="index">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="comprar.html">Comprar cafe</a></li>
+          <!-- Enlace a la página principal -->
+          <li>
+            <a href="inversiones.html">Inversiones</a>
+          </li>
+          <!-- Enlace a otro sitio web -->
+          <li><a href="nos.html">Sobre nosotros</a></li>
+          <!-- Enlace dentro de la misma página -->
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h1>Historia del cafe</h1>
+      <img
+        class="gif"
+        src="https://media1.tenor.com/m/19enUrexSFIAAAAC/guten-morgen.gif"
+        alt="cafe"
+        height="400"
+      />
+      <section>
+        <h2>Introduccion</h2>
+        <p>
+          El café es una de las bebidas más populares y consumidas en el mundo,
+          apreciada por su sabor único y sus efectos estimulantes. Su origen se
+          remonta a las tierras altas de Etiopía, donde, según cuenta la
+          leyenda, un joven pastor llamado Kaldi descubrió que sus cabras se
+          volvían más enérgicas después de comer las cerezas rojas de un
+          arbusto. Desde entonces, la bebida comenzó a ganar popularidad,
+          viajando primero por el mundo árabe, luego a Europa, y finalmente a
+          América.
+        </p>
+        <p>
+          En el siglo XV, el café comenzó a cultivarse en Arabia, donde se
+          descubrió que los granos de café podían ser tostados y molidos para
+          crear una bebida que brindaba energía. Fue en ese momento cuando los
+          árabes comenzaron a preparar lo que hoy conocemos como café árabe, y
+          las primeras cafeterías, llamadas qahveh khaneh, se establecieron en
+          ciudades como La Meca y Medina
+        </p>
+        <p>
+          El café llegó a Europa en el siglo XVII, comenzando por Venecia y
+          luego extendiéndose por toda Europa. Las cafeterías se convirtieron en
+          centros de intercambio cultural, donde se discutían desde ideas
+          filosóficas hasta debates políticos. En Inglaterra, por ejemplo, se
+          crearon cafés que se llamaron Penny Universities debido a la
+          popularidad que tenían entre los intelectuales y artistas de la época.
+          El café se asoció con la creatividad, el pensamiento libre y las
+          discusiones intelectuales.
+        </p>
+        <p>
+          hoy en día, el café sigue siendo una de las bebidas más populares,
+          disfrutada por millones de personas en todo el mundo, tanto por su
+          sabor como por sus efectos estimulantes. Con su historia que abarca
+          siglos y continentes, el café continúa siendo una parte esencial de la
+          vida diaria para muchas culturas, uniendo a las personas en momentos
+          de descanso, conversación y reflexión.
+        </p>
+      </section>
+      <h2>¿Cómo llegó el café a América?</h2>
+      <p>
+        El café llegó a América en el siglo XVIII, cuando los europeos
+        comenzaron a expandir la plantación de este cultivo en sus colonias
+        tropicales. Aunque el café ya se consumía en Europa y el mundo árabe,
+        América no lo conoció hasta que los colonos europeos decidieron llevarlo
+        a las tierras tropicales del Nuevo Mundo, debido a las condiciones
+        ideales para su cultivo en países como Brasil, Colombia y México.
+      </p>
+      <p>
+        La primera llegada significativa del café a América ocurrió en Francia,
+        cuando un diplomático llamado Gabriel de Clieu llevó una planta de café
+        a la isla de Martinica, en el Caribe, en 1720. Según la historia, de
+        Clieu atravesó tormentas y dificultades para conseguir la planta y
+        llevarla a un territorio donde las condiciones eran perfectas para el
+        cultivo del café. Desde ahí, el cultivo de café se extendió rápidamente
+        por las islas del Caribe, y luego al continente sudamericano.
+      </p>
+      <p>
+        Brasil, en particular, se convirtió en uno de los mayores productores de
+        café del mundo a medida que la demanda global aumentaba. En el siglo
+        XIX, las plantaciones de café se expandieron en Brasil, y el país se
+        consolidó como líder mundial en la producción de este grano. El café
+        también se cultivó en Colombia y México, donde las condiciones del clima
+        y el suelo favorecían su crecimiento.
+      </p>
+      <p>
+        A medida que el café se establecía en América Latina, también se
+        convertía en un pilar de la economía local, con miles de personas
+        involucradas en su cultivo y comercio. El café tuvo un impacto
+        significativo en la historia económica y social de América Latina,
+        convirtiéndose no solo en un producto agrícola esencial, sino también en
+        un símbolo cultural de la región.
+      </p>
+      <p>
+        Hoy en día, América Latina sigue siendo una de las mayores productoras
+        de café, especialmente países como Brasil, Colombia, México y Guatemala,
+        que continúan exportando grandes cantidades de café al mercado global.
+      </p>
+      <section>
+        <section>
+          <h2>¿Cómo se forma el café?</h2>
+          <p>
+            Antes de que el café llegue a nuestras tazas, pasa por un proceso
+            fascinante que comienza con una pequeña semilla y termina en el
+            aroma y sabor que tanto disfrutamos. Todo comienza en las
+            plantaciones, donde las cerezas de café —el fruto de la planta de
+            café— se cosechan cuidadosamente. Estas cerezas contienen los
+            granitos de café, que son extraídos, secados, y luego procesados
+            para ser tostados. El tostado es donde la magia ocurre, ya que
+            transforma los granos en el color marrón oscuro y desarrolla ese
+            sabor único que nos da energía cada mañana. Este proceso de cultivo
+            y transformación ha evolucionado a lo largo de siglos, convirtiendo
+            al café en una bebida mundialmente apreciada.
+          </p>
+          <h3>
+            El proceso para obtener el cafe lo podemos descomponer en los
+            siguientes 7 pasos:
+          </h3>
+          <ol>
+            <li>
+              <b>Cosecha de las cerezas de café:</b> El proceso comienza con la
+              cosecha de las cerezas de café, que son los frutos rojos de la
+              planta de café. Estos frutos maduran en las ramas y se recogen a
+              mano o con máquinas.
+            </li>
+            <li>
+              <b>Extracción de los granos:</b> Una vez cosechadas las cerezas,
+              se extraen los granos de café. Esto puede hacerse mediante el
+              proceso húmedo (eliminando la pulpa de la cereza con agua) o el
+              proceso seco (dejando secar la cereza al sol y luego retirando la
+              pulpa).
+            </li>
+            <li>
+              <b>Secado:</b>Los granos extraídos deben secarse adecuadamente
+              para reducir su contenido de humedad. Esto se hace al sol o
+              mediante secadores artificiales.
+            </li>
+            <li>
+              <b>Molienda:</b> Los granos secos pasan por un proceso de
+              molienda, donde se trituran y se separan de su cáscara. El grano
+              molido es lo que se utiliza para preparar el café.
+            </li>
+            <li>
+              <b>Tostado:</b> El paso crucial donde ocurre la transformación del
+              grano verde a un grano de color marrón oscuro. El tostado es lo
+              que desarrolla los sabores y aromas característicos del café. El
+              tiempo y la temperatura de tostado varían dependiendo del tipo de
+              café que se desee obtener (ligero, medio, oscuro).
+            </li>
+            <li>
+              <b>Molienda final:</b> Dependiendo del tipo de café que se quiera
+              preparar (espresso, filtrado, café en grano), el grano tostado se
+              muele en una textura más fina o gruesa.
+            </li>
+            <li>
+              <b>Preparación y disfrute:</b> Finalmente, el café molido se
+              prepara de diversas maneras: espresso, cafetera de filtro, prensa
+              francesa, entre otros. El resultado final es la bebida que
+              millones de personas disfrutan cada día.
+            </li>
+          </ol>
+        </section>
+        <h2></h2>
+      </section>
+    </main>
+  </body>
+</html>
