@@ -1,0 +1,86 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <header>
+      <h1 id="title">freeCodeCamp Survey Form</h1>
+      <p id="description">
+        Thank you for taking the time to help us improve the platform
+      </p>
+    </header>
+
+    <main>
+      <form id="survey-form">
+
+        <!-- NAME -->
+        <label id="name-label" for="name">Name</label>
+        <input id="name" type="text" placeholder="Put your name" required>
+
+        <!-- EMAIL -->
+        <label id="email-label" for="email">Email</label>
+        <input id="email" type="email" placeholder="Put your email" required>
+
+        <!-- NUMBER -->
+        <label id="number-label" for="number">Age (optional)</label>
+        <input
+          id="number"
+          type="number"
+          min="19"
+          max="90"
+          placeholder="Put your age"
+        >
+
+        <!-- DROPDOWN -->
+        <label for="dropdown">Escoge</label>
+        <select id="dropdown">
+          <option value="1">bueno</option>
+          <option value="2">malo</option>
+          <option value="3">excelente</option>
+        </select>
+
+        <!-- RADIO BUTTONS -->
+        <p>Do you want to become millionaire?</p>
+
+        <label for="yes">Yes</label>
+        <input type="radio" id="yes" name="millionaire" value="yes">
+
+        <label for="no">No</label>
+        <input type="radio" id="no" name="millionaire" value="no">
+
+        <!-- CHECKBOXES -->
+        <p>Which one do you prefer?</p>
+
+        <label for="crypto">Crypto</label>
+        <input type="checkbox" id="crypto" name="prefer" value="crypto">
+
+        <label for="realstate">Real State</label>
+        <input type="checkbox" id="realstate" name="prefer" value="realstate">
+
+        <!-- TEXTAREA -->
+        <label for="comentarios">
+          You want to leave us additional comments? Below here you can!
+        </label>
+        <textarea
+          id="comentarios"
+          name="comentarios"
+          placeholder="Escribe!"
+        ></textarea>
+
+        <!-- SUBMIT -->
+        <button id="submit" type="submit">Submit</button>
+
+      </form>
+    </main>
+
+  </body>
+</html>
+
+
+** end of index.html **
+
