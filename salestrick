@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+                <style></style>
+            </head>
+            <body>
+                
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page</title>
+    <style>
+
+        body 
+        {
+    background-color: #F2D2BD; /* Color de fondo universal */
+    margin: 0;
+}
+        .title-sales{
+          
+            font-family: monospace;
+            font-size:20px;
+            padding:50px;
+            border-radius: 60px;
+          
+          
+        }
+       
+
+        .body{
+            margin:0;
+            
+        }
+
+        .first-photo  {
+   position: relative;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    height:450px;
+    
+    
+}
+        
+       
+       .intro-idea
+       {
+        background-color: white;
+        border: 2px solid black; /* Borde negro 2px */
+        padding: 30px; /* Espacio interno */
+        margin: 20px; /* Espacio entre secciones */
+        border-radius: 0px;
+       }
+    </style>
+
+
+    <header> <!-- Cambié <head> por <header> -->
+        <div class="title-sales">
+            <h1>How to sell a pen?</h1>
+            <img class="first-photo" src="https://cdn.prod.website-files.com/6144fc888ce5842cee090bd1/6307e3024484ee08fd90e207_Sales%20Cycle%20Sales%20Cartoon.jpeg" alt="sales image">
+            
+        </div>
+    </header>
+    <main>
+        <section class="intro-idea">
+            <h2>The purpose of selling a pen.</h2>
+            <p>Behind the idea of selling a pen, you need to find a reason to justify why if you were that person you would buy it. It sounds easy. You need to point out the main reason to your decision, and proceed with the arguments. Second, and very important, do not seel it just with arguments. Adapt those arguments to the customer you are talkign with.  What do you know about them, their problems , their lives and needs. And last but not less important, create the urgency. Why it has to be now? or in two days, months, years.. so on. <b>You got it.<b> 
+
+            </b></b></p><b><b>
+
+            <dl>
+                <dt>Sell:</dt>
+                 <dd>The action of you making yourself a customer, create the urgency and sell</dd>
+                 <dt>Negotiation:</dt>
+                 <dd>THe action of persuading other people</dd>
+                </dl> 
+        </b></b></section><b><b>
+
+        <section class="intro-idea">
+        <h2>How to gain rapport?</h2>
+         <p>You need to gain rapport from people you sell. It is good to make a sale, but if that person wont come later on, your bussines is temporary. The idea is that, the lower the price your services are, the more important for you is that they came back.  If you sell phones, atleast you crearte the brand so that 2 years later they come for another one. BUt if you  sell online marketing or you sell B2B services, it is important to buld relationships with them. </p>
+        </section>
+
+        <section class="intro-idea">
+            <h2>
+                What can I do to become a good salesman?
+            </h2>
+            <p>You need to go out and sale. You need to crearte resistance. Pain. It will hurt but you got to. Once I hear: You have %100 chance of losing on whaterver you do not try. Go and try. </p>
+        </section>
+    </b></b></main><b><b>
+
+
+                <script></script>
+            
+        
+    </b></b></body>
